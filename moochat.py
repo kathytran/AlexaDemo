@@ -50,7 +50,7 @@ def prompt_new_contact_number(name):
     try:
         message = client.messages.create(to='{number}'.format(number=str(TO_NUMBER)),
                                          from_=TWILIO_FROM_NUMBER,
-                                         body="Hey Maddy! Grandma wants to hangout with you on Monday")
+                                         body="Hey Maddy! Nana wants to hangout with you on Monday")
     except Exception as e:
         print e
         return question("Sorry something broke, try again")
