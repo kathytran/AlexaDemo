@@ -1,0 +1,14 @@
+prompt_welcome: Hi Grandma Pattrice! Welcome to GrandchildrenChecker! You can set up a party and see your grandchildren. Ask me questions about their availability
+
+prompt_for_name: Maddy is available on Monday. Do you want to hang out?
+
+prompt_for_number: Okay great! I am sending a text to her now!
+
+# add_contact_confirm:  Okay great! I am sending a text to her now!
+#
+#
+# send_to_contact_confirm: Moo moo!
+#
+# send_to_contact_missing: Sorry, {{ name }} is not in your contact book
+#
+# send_to_contact_error: Sorry, something broke
